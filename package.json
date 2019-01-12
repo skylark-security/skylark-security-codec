@@ -1,0 +1,34 @@
+{
+  "name": "skylark-utils-codec",
+  "version": "0.9.0",
+  "description": "The codec features enhancement for skylark utils.",
+  "main": "-",
+  "scripts": {
+    "build": "sbundle build .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "www.skylarkjs.org",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylarkjs/skylark-utils-codec.git"
+  },
+  "keywords": [
+    "skylark",
+    "skylarkjs",
+    "javacript",
+    "library",
+    "utility",
+    "coded",
+    "html5"
+  ],
+  "author": "Hudaokeji Co.,Ltd",
+  "license": "MIT",
+  "bugs": "https://github.com/skylarkjs/skylark/issues",
+  "dependencies": {
+    "skylark-langx": "git+https://github.com/skylarklangx/skylark-langx.git#master",
+    "skylark-utils-stream": "https://github.com/skylarkutils/skylark-utils-stream#master"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
