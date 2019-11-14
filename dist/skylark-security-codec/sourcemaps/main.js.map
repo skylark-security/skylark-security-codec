@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","codec"],"mappings":";;;;;;;AAAAA,QACI,UACA,YACD,SAASC,GAEX,OAAOA","file":"../main.js","sourcesContent":["define([\r\n    \"./codec\",\r\n    \"./base64\"\r\n], function(codec) {\r\n\r\n\treturn codec;\r\n});"]}

@@ -1,5 +1,5 @@
 {
-  "name": "skylark-utils-codec",
+  "name": "skylark-security-codec",
   "version": "0.9.0",
   "description": "The codec features enhancement for skylark utils.",
   "main": "-",
@@ -10,7 +10,7 @@
   "homepage": "www.skylarkjs.org",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skylarkjs/skylark-utils-codec.git"
+    "url": "git+https://github.com/skylark-security/skylark-security-codec.git"
   },
   "keywords": [
     "skylark",
@@ -25,8 +25,8 @@
   "license": "MIT",
   "bugs": "https://github.com/skylarkjs/skylark/issues",
   "dependencies": {
-    "skylark-langx": "git+https://github.com/skylarklangx/skylark-langx.git#master",
-    "skylark-utils-stream": "https://github.com/skylarkutils/skylark-utils-stream#master"
+    "skylark-data-streams": "git+https://github.com/skylark-data/skylark-data-streams.git#master",
+    "skylark-langx": "git+https://github.com/skylarklangx/skylark-langx.git#master"
   },
   "engines": {
     "node": ">=0.8.0"

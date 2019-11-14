@@ -1,1 +1,0 @@
-{"version":3,"sources":["codec.js"],"names":["define","skylark","langx","codec"],"mappings":";;;;;;;AAAAA,QACI,wBACA,uBACD,SAASC,EAASC,GAKpB,OAJYD,EAAQE","file":"../codec.js","sourcesContent":["define([\r\n    \"skylark-langx/skylark\",\r\n    \"skylark-langx/langx\"\r\n], function(skylark, langx) {\r\n\tvar codec = skylark.codec = {\r\n\r\n\t};\r\n\r\n\treturn codec;\r\n});"]}

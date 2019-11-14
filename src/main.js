@@ -1,9 +1,6 @@
 define([
     "./codec",
-    "./base64",
-    "./jbig2",
-    "./jpeg",
-    "./jpx",
+    "./base64"
 ], function(codec) {
 
 	return codec;
