@@ -1,6 +1,6 @@
 define([
   "skylark-langx/langx",
-  "skylark-utils-streams/DecodeStream",
+  "skylark-io-streams/DecodeStream",
   "./codec"
 ],function(langx,DecodeStream,codec){
   'use strict';
