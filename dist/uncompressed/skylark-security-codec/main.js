@@ -1,6 +1,7 @@
 define([
     "./codec",
-    "./base64"
+    "./base64",
+    "./arithmetic"
 ], function(codec) {
 
 	return codec;

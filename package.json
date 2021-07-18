@@ -4,7 +4,7 @@
   "description": "The codec features enhancement for skylark utils.",
   "main": "-",
   "scripts": {
-    "build": "sbundle build .",
+    "build": "slib build .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "homepage": "www.skylarkjs.org",
@@ -18,15 +18,14 @@
     "javacript",
     "library",
     "utility",
-    "coded",
+    "codec",
     "html5"
   ],
   "author": "Hudaokeji Co.,Ltd",
   "license": "MIT",
   "bugs": "https://github.com/skylarkjs/skylark/issues",
   "dependencies": {
-    "skylark-io-streams": "git+https://github.com/skylark-io/skylark-io-streams.git",
-    "skylark-langx": "git+https://github.com/skylarklangx/skylark-langx.git"
+    "skylark-langx-ns": "git+https://github.com/skylarklangx/skylark-langx-ns.git"
   },
   "engines": {
     "node": ">=0.8.0"

@@ -5,5 +5,5 @@
  * @link www.skylarkjs.org
  * @license MIT
  */
-define(["./codec","./base64"],function(e){return e});
+define(["./codec","./base64","./arithmetic"],function(e){return e});
 //# sourceMappingURL=sourcemaps/main.js.map

@@ -1,7 +1,6 @@
 define([
-    "skylark-langx/langx",
     "./codec"
-], function(langx,codec) {
+], function(codec) {
 
     var base64 = function() {
         return base64;

@@ -5,5 +5,5 @@
  * @link www.skylarkjs.org
  * @license MIT
  */
-define(["skylark-langx/skylark","skylark-langx/langx"],function(a,n){return a.attach("security.codec",{})});
+define(["skylark-langx-ns"],function(n){return n.attach("security.codec")});
 //# sourceMappingURL=sourcemaps/codec.js.map

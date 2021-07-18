@@ -1,7 +1,6 @@
 define([
-    "skylark-langx/skylark",
-    "skylark-langx/langx"
-], function(skylark, langx) {
+    "skylark-langx-ns"
+], function(skylark,) {
 
-	return skylark.attach("security.codec",{});
+	return skylark.attach("security.codec");
 });
